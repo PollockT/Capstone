@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 
 namespace CapstoneServiceDesk.Models
 {
-    public class Technician
+    public class Technician : IdentityUser
     {
         /// <summary>
         /// Technician an Admin?

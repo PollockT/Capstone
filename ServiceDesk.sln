@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneServiceDesk", "CapstoneServiceDesk\CapstoneServiceDesk.csproj", "{D5CC2E5A-8B48-4774-B2F4-88B40BF47EF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapstoneServiceDesk", "CapstoneServiceDesk\CapstoneServiceDesk.csproj", "{D5CC2E5A-8B48-4774-B2F4-88B40BF47EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
